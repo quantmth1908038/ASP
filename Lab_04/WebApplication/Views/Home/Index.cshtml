@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Microsoft.AspNet.Identity.EntityFramework.IdentityRole>
+@{
+    ViewBag.Title = "Manage Role";
+}
+
+<h2>Manage Role</h2>
+<table><tr><td style="height:20px;"></td></tr></table>
+<table id="tbRole" style="width:30%; border:solid 4px red; background-color:skyblue; padding:10px">
+    <tr>
+        <td style="background-color:green ; color: white; padding:10px">
+            Role Name
+        </td>
+    </tr>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td style="padding:10px; border-bottom: 1px solid #ff006e">
+                    @item.Name
+                </td>
+            </tr>
+        }
+    }
+
+</table>
+<table>
+    <tr>
+        <td style="height:20px"></td>
+    </tr>
+    <tr>
+        <td style="height:20px; text-align:right">
+            @Html.ActionLink("Add New Role", "Create", "Role")
+        </td>
+    </tr>
+</table>
