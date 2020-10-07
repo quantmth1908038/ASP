@@ -13,6 +13,6 @@ namespace Product
         {
             DbHelper dbInstance = new DbHelper();
             return dbInstance.CreateProduct(ProductModel);
-        } 
+        }
     }
 }

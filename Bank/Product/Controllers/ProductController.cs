@@ -13,6 +13,7 @@ namespace Product.Controllers
     {
         [HttpPost]
         [Authorize]
+        [Route("api/Product/Create")]
         public string CreateProduct(ProductM productModel)
         {
             DbHelper dbHelper = new DbHelper();
@@ -21,7 +22,7 @@ namespace Product.Controllers
         }
 
         [HttpGet]
-        [Authorize]
+        [Route("api/Product/GetAll")]
         public List<ProductM> GetAllProduct(List<ProductM> productModel)
         {
             DbHelper dbHelper = new DbHelper();
@@ -40,6 +41,7 @@ namespace Product.Controllers
 
         [HttpPost]
         [Authorize]
+        [Route("api/Product/Update")]
         public string UpdateProduct(ProductM productModel)
         {
             DbHelper dbHelper = new DbHelper();
