@@ -35,3 +35,44 @@ D:\Aptech\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\static
 D:\Aptech\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\staticwebassets\ContosoCrafts.WebSite.StaticWebAssets.xml
 D:\Aptech\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.genruntimeconfig.cache
 D:\Aptech\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.csproj.CopyComplete
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.exe
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.deps.json
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.runtimeconfig.json
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.runtimeconfig.dev.json
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.dll
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.pdb
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Views.dll
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Views.pdb
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.csprojAssemblyReference.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.AssemblyInfoInputs.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.AssemblyInfo.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.csproj.CoreCompileInputs.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.MvcApplicationPartsAssemblyInfo.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.RazorAssemblyInfo.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.RazorAssemblyInfo.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.TagHelpers.input.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.TagHelpers.output.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.RazorCoreGenerate.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.RazorTargetAssemblyInfo.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.RazorTargetAssemblyInfo.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Views.pdb
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\staticwebassets\ContosoCrafts.WebSite.StaticWebAssets.Manifest.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\staticwebassets\ContosoCrafts.WebSite.StaticWebAssets.xml
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.dll
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.pdb
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.genruntimeconfig.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.csproj.CopyComplete
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.RazorComponent.input.cache
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\RazorDeclaration\ContosoCrafts.WebSite.dll
+D:\My Folder\ASP\ContosoCrafts\ContosoCrafts.WebSite\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs

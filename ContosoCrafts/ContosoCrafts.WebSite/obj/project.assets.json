@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\DTV\\.nuget\\packages\\": {}
+    "C:\\Users\\jinch\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Aptech\\ASP\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+      "projectUniqueName": "D:\\My Folder\\ASP\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
       "projectName": "ContosoCrafts.WebSite",
-      "projectPath": "D:\\Aptech\\ASP\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
-      "packagesPath": "C:\\Users\\DTV\\.nuget\\packages\\",
-      "outputPath": "D:\\Aptech\\ASP\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
+      "projectPath": "D:\\My Folder\\ASP\\ContosoCrafts\\ContosoCrafts.WebSite\\ContosoCrafts.WebSite.csproj",
+      "packagesPath": "C:\\Users\\jinch\\.nuget\\packages\\",
+      "outputPath": "D:\\My Folder\\ASP\\ContosoCrafts\\ContosoCrafts.WebSite\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DTV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jinch\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\DTV\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\DTV\\.nuget\\packages"
+      "C:\\Users\\jinch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jinch\\.nuget\\packages"
     ]
   }
 }
