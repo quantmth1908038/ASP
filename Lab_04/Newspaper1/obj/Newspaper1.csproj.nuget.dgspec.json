@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Aptech\\ASP\\Lab_04\\Newspaper1\\Newspaper1.csproj": {}
+    "D:\\My Folder\\ASP_S\\Lab_04\\Newspaper1\\Newspaper1.csproj": {}
   },
   "projects": {
-    "D:\\Aptech\\ASP\\Lab_04\\Newspaper1\\Newspaper1.csproj": {
+    "D:\\My Folder\\ASP_S\\Lab_04\\Newspaper1\\Newspaper1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Aptech\\ASP\\Lab_04\\Newspaper1\\Newspaper1.csproj",
+        "projectUniqueName": "D:\\My Folder\\ASP_S\\Lab_04\\Newspaper1\\Newspaper1.csproj",
         "projectName": "Newspaper1",
-        "projectPath": "D:\\Aptech\\ASP\\Lab_04\\Newspaper1\\Newspaper1.csproj",
-        "packagesPath": "C:\\Users\\DTV\\.nuget\\packages\\",
-        "outputPath": "D:\\Aptech\\ASP\\Lab_04\\Newspaper1\\obj\\",
+        "projectPath": "D:\\My Folder\\ASP_S\\Lab_04\\Newspaper1\\Newspaper1.csproj",
+        "packagesPath": "C:\\Users\\jinch\\.nuget\\packages\\",
+        "outputPath": "D:\\My Folder\\ASP_S\\Lab_04\\Newspaper1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DTV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jinch\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
