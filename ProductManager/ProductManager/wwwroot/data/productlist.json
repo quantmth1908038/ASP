@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Tắt Đèn (Tái Bản 2020)",
+    "img": "https://salt.tikicdn.com/cache/280x280/ts/product/17/f1/e5/945ce2cc5b3b6fb7138a10d57a56f64f.jpg",
+    "Price": 25000
+  },
+  {
+    "Id": 2,
+    "Name": "Sống Đủ",
+    "img": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/a1/40/423bafd9f651ff9719b7caceeeb919d5.jpg",
+    "Price": 60750
+  },
+  {
+    "Id": 3,
+    "Name": "Cẩm Nang Sinh Tồn",
+    "img": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/65/91/73e386d259ecc1a910605d33cdfc69a4.jpg",
+    "Price": 65000
+  },
+  {
+    "Id": 4,
+    "Name": "Cậu Nhóc Gặt Gió",
+    "img": "https://salt.tikicdn.com/cache/280x280/ts/product/9e/0d/b0/fdb8de41ed1591752f0b3a641b2e8964.jpg",
+    "Price": 57500
+  }
+]
