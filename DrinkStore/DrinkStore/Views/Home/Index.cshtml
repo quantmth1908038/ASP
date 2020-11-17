@@ -1,0 +1,14 @@
+﻿@model ProductsListViewModel
+
+    @foreach (var p in Model.Products) 
+    {
+        <div>
+            <h3>Name: @p.Name</h3>
+            <h6>Description: @p.Description</h6>
+            <img src="@p.Image" style="width:200px;height:200px" />
+            <h4>Price: @p.Price.ToString("c")</h4>
+            <h4>Category: @p.Category</h4>
+        </div>
+    }
+
+<div page-model="@Model.PagingInfo" page-action="Index"></div>
