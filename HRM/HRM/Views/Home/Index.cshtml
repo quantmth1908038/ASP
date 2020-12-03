@@ -1,0 +1,13 @@
+﻿@model IQueryable<Employee>
+
+@foreach (var p in Model)
+{
+    <div class="col-md-12" style="margin-top: 30px">
+        <div class="col-md-3" style="float: left">
+            <h3>@p.Name</h3>
+            <p>@p.Birthday</p>
+            <p>@p.Address</p>
+            <img src="@p.Image" style="width: 200px; height:200px;" />
+        </div>
+    </div>
+}
