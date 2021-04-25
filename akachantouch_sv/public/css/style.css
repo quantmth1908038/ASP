@@ -1,0 +1,44 @@
+.preview {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.slider-container .flexslider {
+    margin-bottom: 30px;
+}
+
+.slider-container p {
+    padding: 10px;
+    background: #ffffff82;
+    position: absolute;
+    margin: 0;
+    font-weight: 600;
+}
+
+.slider-container .message {
+    bottom: 0;
+    width: 100%;
+}
+
+.slider-container .play_sec {
+    top: 0;
+}
+
+.slider-container .flexslider .slides > li {
+    position: relative;
+}
+
+.slider .select-box {
+    margin-bottom: 20px;
+}
+
+.slider-container .null {
+    text-align: center;
+    position: initial;
+}
+
+.btn-customize {
+    display: block;
+    margin: 10px;
+    max-width: 90px;
+}
